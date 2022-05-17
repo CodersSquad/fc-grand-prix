@@ -37,7 +37,7 @@ Deliverables
 - Architecture Document - [ARCHITECTURE.md](ARCHITECTURE.md)
   - Details on how you designed and implemented your solution
   - Project architecture description, diagrams, charts and everything related to the way you think/design/build your program
-- Build/Run automation (`Makefile` and documentation - [PACMAN.md](PACMAN.md))
+- Build/Run automation (`Makefile` and documentation - [GRAND-PRIX.md](GRAND-PRIX.md))
   - Instructions on how to build and run your program
 - Project's presentation (5-10 minutes)
   - A video presentation that will be delivered to the professor, in youtube preferable
